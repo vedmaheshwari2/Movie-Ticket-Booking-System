@@ -1,0 +1,23 @@
+[
+    {
+        "booking_id": "MOV23600",
+        "customer_name": "Test User",
+        "movie_name": "Avengers: Endgame",
+        "ticket_price": 250,
+        "paid_tickets": 5,
+        "paid_seats": [
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5"
+        ],
+        "free_seats": [],
+        "subtotal": 1250,
+        "friday_discount": 0,
+        "bulk_discount": 187.5,
+        "final_amount": 1062.5,
+        "credits_earned": 75,
+        "total_credits": 75
+    }
+]
